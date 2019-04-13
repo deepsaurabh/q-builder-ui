@@ -4,11 +4,6 @@ Generic 'q' builder Tool
 This is a simple HTML / JavaScript application that is used for Building 'q' That can be used with
 any REST based system.
 
-# Generic 'q' builder (Version 1.0)
-An interative demo and ZIP download are hosted on gh page http://redquerybuilder.appspot.com/
-
-'q' builder is based on pure Bootstrap and JQuery. Where You can build  sql queries as a tree.
-
 ### Build
 
 - Download the code put project in any any local server and it will run
